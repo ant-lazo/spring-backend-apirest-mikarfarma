@@ -6,6 +6,4 @@ import com.mikarfarma.springboot.app.models.entities.Cliente;
 
 public interface IClienteDao extends CrudRepository<Cliente, Long> {
 	
-	
-
 }
